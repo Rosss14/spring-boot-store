@@ -1,8 +1,8 @@
-# 🏬 Store Application (Java Spring Boot)
+# Store Application (Java Spring Boot)
 
 A modular **Spring Boot** application for managing a store, organized using a **feature-based package structure**.
 
-## 📌 Features
+## Features
 - **Admin** – Admin tools, in development.
 - **Auth** – JWT-based authentication and authorization.
 - **Carts** – Shopping cart creation and management.
@@ -12,7 +12,7 @@ A modular **Spring Boot** application for managing a store, organized using a **
 - **Products** – Product catalog, categories, and inventory management.
 - **Users** – User registration, profiles, and account management.
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Language:** Java 17+
 - **Framework:** Spring Boot
 - **Dependency Manager:** Maven
