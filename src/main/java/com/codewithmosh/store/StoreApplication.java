@@ -7,6 +7,17 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class StoreApplication {
 
     public static void main(String[] args) {
+
+//        var context = SpringApplication.run(StoreApplication.class, args);
+//        var userMapper = context.getBean(UserMapper.class);
+//
+//        var user = User.builder()
+//                .name("John Doe")
+//                .email("john@example.com")
+//                .password("password")
+//                .build();
+//
+//        System.out.println(userMapper.toDto(user));
         SpringApplication.run(StoreApplication.class, args);
     }
 }
